@@ -43,7 +43,6 @@ Currently leveling up at **Coder71** and exploring backend systems with **Node.j
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 #### 🛠 Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -72,7 +71,7 @@ Currently leveling up at **Coder71** and exploring backend systems with **Node.j
 ### 🌱 Learning & Goals
 
 - Master advanced React & performance patterns  
-- Explore backend architecture (Node + Laravel + Supabase + Prisma)  
+- Explore backend architecture (Node + Supabase + Prisma)  
 - Contribute to open-source  
 - Stay curious, build more ✨  
 
