@@ -8,12 +8,33 @@
 I’m a frontend engineer who loves turning ideas into clean, functional, and beautiful interfaces.  
 With 4+ years of experience (and counting), I’ve built everything from Shopify stores to mobile apps to full-stack tools.  
 
-Currently leveling up at **Coder71** and exploring backend systems with **Node.js**, **Express JS**, **Postgresql**, **Prisma**, and **Supabase**.
+Currently leveling up at **Coder71** and exploring backend systems with **Laravel**, **Node.js**, and **Supabase**.
 
 - 💻 Writing JavaScript since jQuery ruled the world  
 - 🧑‍🏫 Mentoring devs, leading projects, building with intent  
 - 📍 Dhaka, Bangladesh  
 - 📨 [mail.owhab@gmail.com](mailto:mail.owhab@gmail.com)  
+
+---
+
+### 🗣 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+### 🧩 CS Fundamentals
+
+**Data Structures**  
+Array • Object • Queue • Stack • Linked List • Hash Map  
+
+**Algorithms**  
+Binary Search • Quick Sort • Merge Sort • Collection Sort • Recursion Basics  
 
 ---
 
@@ -43,6 +64,7 @@ Currently leveling up at **Coder71** and exploring backend systems with **Node.j
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 #### 🛠 Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -65,13 +87,21 @@ Currently leveling up at **Coder71** and exploring backend systems with **Node.j
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-000000?style=flat)
 
+---
+
+### 🚀 Projects I'm Proud Of
+
+**🔹 Tailored Athlete** – Custom Shopify features (Liquid, JS, GraphQL)  
+**🔹 CVBox.ai** – Resume builder with Laravel + Inertia + React  
+**🔹 Almas Furniture** – E-commerce frontend (Next.js + Zustand)  
+**🔹 Dictionary App** – Built using React Native + Expo  
 
 ---
 
 ### 🌱 Learning & Goals
 
 - Master advanced React & performance patterns  
-- Explore backend architecture (Node + Supabase + Prisma)  
+- Explore backend architecture (Node + Laravel + Supabase + Prisma)  
 - Contribute to open-source  
 - Stay curious, build more ✨  
 
@@ -86,4 +116,4 @@ Currently leveling up at **Coder71** and exploring backend systems with **Node.j
 ---
 
 > “Code it clean. Build it bold.”  
-> — Abdul Owhab 🚀
+> — Abdul 🚀
