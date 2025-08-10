@@ -86,16 +86,6 @@ Binary Search • Quick Sort • Merge Sort • Collection Sort • Recursion Ba
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-000000?style=flat)
-
----
-
-### 🚀 Projects I'm Proud Of
-
-**🔹 Tailored Athlete** – Custom Shopify features (Liquid, JS, GraphQL)  
-**🔹 CVBox.ai** – Resume builder with Laravel + Inertia + React  
-**🔹 Almas Furniture** – E-commerce frontend (Next.js + Zustand)  
-**🔹 Dictionary App** – Built using React Native + Expo  
-
 ---
 
 ### 🌱 Learning & Goals
