@@ -100,10 +100,11 @@ Binary Search • Quick Sort • Merge Sort • Collection Sort • Recursion Ba
 ### 📫 Let’s Connect
 
 - 🌐 [Portfolio](https://abdulowhab.netlify.app)  
+- 🌐 [Portfolio](https://owhab.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/abdulowhab)  
 - 🐙 [GitHub](https://github.com/Owhab)
 
 ---
 
 > “Code it clean. Build it bold.”  
-> — Abdul 🚀
+> — Owhab 🚀
