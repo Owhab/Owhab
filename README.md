@@ -8,7 +8,7 @@
 I’m a frontend engineer who loves turning ideas into clean, functional, and beautiful interfaces.  
 With 4+ years of experience (and counting), I’ve built everything from Shopify stores to mobile apps to full-stack tools.  
 
-Currently leveling up at **Coder71** and exploring backend systems with **Laravel**, **Node.js**, and **Supabase**.
+Currently leveling up at **Coder71** developing web and mobile apps using **React**, **Next**, **React Native** and **Expo** and exploring backend systems with **NestJS**, **Node.js**, **PostgreSQL**, and **GraphQL**.
 
 - 💻 Writing JavaScript since jQuery ruled the world  
 - 🧑‍🏫 Mentoring devs, leading projects, building with intent  
