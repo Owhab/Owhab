@@ -9,7 +9,7 @@
   <a href="https://owhab.com">🌐 owhab.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/abdulowhab">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Owhab">GitHub</a> &nbsp;·&nbsp;
-  <a href="mailto:mail.owhab@gmail.com">mail.owhab@gmail.com</a>
+  <a href="/cdn-cgi/l/email-protection#fc919d9590d2938b949d9ebc9b919d9590d29f9391"><span class="__cf_email__" data-cfemail="d8b5b9b1b4f6b7afb0b9ba98bfb5b9b1b4f6bbb7b5">[email&#160;protected]</span></a>
 </p>
 
 <p align="center">
@@ -81,11 +81,11 @@ Currently expanding into **Golang**, **DevOps**, and systems engineering.
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Owhab&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owhab&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Owhab&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owhab&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Owhab&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Owhab&theme=github-dark-blue&hide_border=true" />
 
 ---
 
@@ -96,5 +96,4 @@ I'm open to **frontend-focused full stack roles** — remote or based in Dhaka. 
 <p>
   <a href="https://owhab.com"><img src="https://img.shields.io/badge/Portfolio-owhab.com-0969da?style=flat-square&logo=safari&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abdulowhab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mail.owhab@gmail.com"><img src="https://img.shields.io/badge/Email-mail.owhab@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+  <a href="/cdn-cgi/l/email-protec
