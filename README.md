@@ -78,17 +78,6 @@ Currently expanding into **Golang**, **DevOps**, and systems engineering.
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Owhab&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owhab&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=Owhab&theme=github-dark-blue&hide_border=true" />
-
----
-
 ### Let's Connect
 
 I'm open to **frontend-focused full stack roles** — remote or based in Dhaka. If you're building something meaningful, I'd love to talk.
