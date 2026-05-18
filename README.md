@@ -39,7 +39,7 @@ I believe in **clean code, measurable impact**, and products that users genuinel
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Owhab)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Owhab)]
 ---
 
 ## 🛠️ Tech Stack
