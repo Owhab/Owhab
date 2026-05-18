@@ -40,6 +40,8 @@ I believe in **clean code, measurable impact**, and products that users genuinel
 </p>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Owhab)](https://git.io/streak-stats)
+---
 
 ## 🛠️ Tech Stack
 
@@ -163,8 +165,6 @@ I'm actively seeking **Full Stack Engineer** and **Software Engineer** positions
 
 **Open to:** Remote · Hybrid · On-site (Dhaka, Bangladesh)
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=Owhab)](https://git.io/streak-stats)
 ---
 
 ## 📬 Let's Connect
