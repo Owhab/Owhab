@@ -1,12 +1,8 @@
 <div align="center">
 
-# Abdul Owhab
+<!-- Banner -->
 
-### Full Stack Engineer • Frontend Team Lead • Ecommerce & SaaS Builder
-
-Building scalable products with React, Next.js, Node.js, Laravel, Shopify, and AI-assisted engineering.
-
-📍 Bangladesh | 🌍 Open to Remote Opportunities
+![](banner.png)
 
 [Portfolio](https://owhab.com) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
 
@@ -103,6 +99,7 @@ My focus areas include:
 ## Professional Experience
 
 ### Full Stack Engineer (Web and Mobile App)
+
 **Coder71 Limited** | Jan 2023 – Present
 
 - Leading frontend development across multiple client projects.
@@ -112,6 +109,7 @@ My focus areas include:
 - Mentoring junior developers and establishing engineering standards.
 
 ### Frontend Software Developer
+
 **Pigeon Soft** | Mar 2022 – Nov 2022
 
 - Built reusable frontend systems using React and Vue.
@@ -123,36 +121,43 @@ My focus areas include:
 ## Selected Projects
 
 ### Elegance
+
 Skincare focused ecommerce platform.
 
 **Tech:** Laravel, Blade, Tailwind, GrapeJS
 
 ### CVBox.ai
+
 AI-powered resume builder platform.
 
 **Tech:** React, Laravel, Inertia.js
 
 ### Tailored Athlete
+
 High-performance Shopify ecommerce platform.
 
 **Tech:** Shopify, GraphQL, Liquid
 
 ### Rangpur Riders
+
 Official sports franchise website.
 
 **Tech:** Next.js
 
 ### Quikbite
+
 Restaurant management system.
 
 **Tech:** React, Laravel, MySQL
 
 ### Almas Furniture
+
 Modern ecommerce platform.
 
 **Tech:** Next.js, Zustand
 
 ### StoreExperts
+
 Shopify-focused agency platform.
 
 **Tech:** React, Next.js
