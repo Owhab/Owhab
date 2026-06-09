@@ -102,11 +102,11 @@ My focus areas include:
 
 ## Professional Experience
 
-### Frontend Software Engineer
+### Full Stack Engineer (Web and Mobile App)
 **Coder71 Limited** | Jan 2023 – Present
 
 - Leading frontend development across multiple client projects.
-- Architecting scalable applications using React, Next.js, React Native, and TypeScript.
+- Architecting scalable applications using React, Next.js, React Native, NestJS, Laravel, and TypeScript.
 - Building ecommerce and SaaS solutions serving real users.
 - Collaborating with PMs, designers, backend engineers, and stakeholders.
 - Mentoring junior developers and establishing engineering standards.
