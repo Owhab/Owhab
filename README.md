@@ -194,7 +194,7 @@ Visit: [StoreExperts](https://storeexperts.dev/)
 
 ## Currently Exploring
 
-- Java & Spring Boot
+- Golang
 - Advanced System Design
 - AI Agents & Multi-Agent Systems
 - Cloud & DevOps Engineering
