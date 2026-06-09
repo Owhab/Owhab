@@ -126,7 +126,7 @@ Skincare focused ecommerce platform.
 
 **Tech:** Laravel, Blade, Tailwind, GrapeJS
 
-[Elegance](https://elegance.com.bd)
+Visit: [Elegance](https://elegance.com.bd)
 
 ### CVBox.ai
 
@@ -134,11 +134,15 @@ AI-powered resume builder platform.
 
 **Tech:** React, Laravel, Inertia.js
 
+Visit: [CVBox.Ai](https://cvbox.ai)
+
 ### Tailored Athlete
 
 High-performance Shopify ecommerce platform.
 
 **Tech:** Shopify, GraphQL, Liquid
+
+Visit: [TailoredAthemete](https://tailoredathlete.co.uk)
 
 ### Rangpur Riders
 
@@ -146,11 +150,16 @@ Official sports franchise website.
 
 **Tech:** Next.js
 
+Visit: [Rangpur Riders](https://rangpurridersbpl.com/)
+
+
 ### Quikbite
 
 Restaurant management system.
 
 **Tech:** React, Laravel, MySQL
+
+Visit: [QuikBite](https://quikbite.site/)
 
 ### Almas Furniture
 
@@ -158,11 +167,15 @@ Modern ecommerce platform.
 
 **Tech:** Next.js, Zustand
 
+Visit: [Almas Furniture](https://almas-furniture.com/)
+
 ### StoreExperts
 
 Shopify-focused agency platform.
 
 **Tech:** React, Next.js
+
+Visit: [StoreExperts](https://storeexperts.dev/)
 
 ---
 
