@@ -4,7 +4,7 @@
 
 ![](banner.png)
 
-[Portfolio](https://owhab.com) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
+[Portfolio](https://abdulowhab.netlify.app) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
 
 </div>
 
