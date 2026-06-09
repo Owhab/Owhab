@@ -119,6 +119,14 @@ My focus areas include:
 ---
 
 ## Selected Projects
+### DermaBD
+
+Dermatology and Skincare focused ecommerce platform.
+
+**Tech:** Laravel, React, Next, Tailwind
+
+Visit: [DermaBD](https://dermabd.com/)
+
 
 ### Elegance
 
