@@ -126,6 +126,8 @@ Skincare focused ecommerce platform.
 
 **Tech:** Laravel, Blade, Tailwind, GrapeJS
 
+[Elegance](https://elegance.com.bd)
+
 ### CVBox.ai
 
 AI-powered resume builder platform.
