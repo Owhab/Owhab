@@ -14,7 +14,7 @@ Building production-grade web &amp; mobile products across ecommerce, SaaS, and 
 
 ## About Me
 
-Full Stack Engineer with 4+ years building production-grade web and mobile applications across ecommerce, SaaS, and internal business platforms. Currently a Senior Frontend &amp; Mobile App Developer at Coder71 Limited, building a multi-tenant SaaS exhibitor platform used to manage 500+ cinema halls across 80 exhibitors. Also contribute across React, Next.js, NestJS, and Laravel, and define system design and architecture decisions for the team's projects.
+Full Stack Engineer with 4+ years building production-grade web and mobile applications across ecommerce, SaaS, and internal business platforms. Currently a Senior Frontend & Mobile App Developer at Coder71 Limited, building a multi-tenant SaaS exhibitor platform used to manage 500+ cinema halls across 80 exhibitors. Also contribute across React, React Native, Expo, Next.js, NestJS, and Laravel, define system design and architecture decisions for the team's projects, and lead & mentor the frontend team while delivering company-wide sessions on system design, CI/CD, and agentic software engineering.
 
 ---
 
@@ -92,7 +92,7 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 | Role                                       | Company         | Duration            | Highlights                                                                                                                                                                                             |
 | ------------------------------------------ | --------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Senior Frontend &amp; Mobile App Developer | Coder71 Limited | Jan 2023 – Present  | Building a multi-tenant SaaS exhibitor platform (500+ cinema halls, 80 exhibitors); contributing across React, React Native, Expo, Next.js, NestJS, Laravel; defining system design &amp; architecture |
+| Senior Frontend &amp; Mobile App Developer | Coder71 Limited | Jan 2023 – Present  | Building a multi-tenant SaaS exhibitor platform (500+ cinema halls, 80 exhibitors); contributing across React, React Native, Expo, Next.js, NestJS, Laravel; defining system design &amp; architecture; leading & mentoring the frontend team; delivered company-wide sessions on "System Design and Application Architecture", "Efficient CI/CD for Scalable Applications", and "Agentic Software Engineering — Spec to Ship" |
 | Frontend Software Developer                | Pigeon Soft     | Mar 2022 – Nov 2022 | Built reusable frontend systems with React &amp; Vue, integrated REST APIs for client projects in agile teams                                                                                          |
 
 
