@@ -31,6 +31,17 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square)
 
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**CS Fundamentals**
+
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-333333?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-333333?style=flat-square)
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -87,7 +98,7 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 ## Interests
 
-Agentic Software Engineering • Full Stack Architecture • Spec-Driven Development • Cloud & DevOps Engineering • Advanced System Design • AI Agents & Multi-Agent Systems
+Agentic Software Engineering • Full Stack Architecture • Spec-Driven Development • Cloud & DevOps Engineering • AI Agents & Multi-Agent Systems
 
 ---
 
