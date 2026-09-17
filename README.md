@@ -2,7 +2,7 @@
 
 # Abdul Owhab
 
-### Senior Frontend &amp; Mobile App Developer
+### Full Stack Engineer
 
 Building production-grade web &amp; mobile products across ecommerce, SaaS, and AI-assisted workflows.
 
