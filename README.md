@@ -2,9 +2,9 @@
 
 # Abdul Owhab
 
-### Full Stack Engineer
+### Senior Frontend &amp; Mobile App Developer
 
-Building production-grade web & mobile products across ecommerce, SaaS, and AI-assisted workflows.
+Building production-grade web &amp; mobile products across ecommerce, SaaS, and AI-assisted workflows.
 
 [Portfolio](https://abdulowhab.netlify.app) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
 
@@ -14,7 +14,7 @@ Building production-grade web & mobile products across ecommerce, SaaS, and AI-a
 
 ## About Me
 
-Full Stack Engineer with 4+ years building production-grade web and mobile applications across ecommerce, SaaS, and internal business platforms. Currently a Frontend Software Engineer & Team Lead at Coder71, driving architecture decisions, mentoring developers, and delivering end-to-end solutions from idea to production.
+Full Stack Engineer with 4+ years building production-grade web and mobile applications across ecommerce, SaaS, and internal business platforms. Currently a Senior Frontend &amp; Mobile App Developer at Coder71 Limited, building a multi-tenant SaaS exhibitor platform used to manage 500+ cinema halls across 80 exhibitors. Also contribute across React, Next.js, NestJS, and Laravel, and define system design and architecture decisions for the team's projects.
 
 ---
 
@@ -77,7 +77,7 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**CMS & Ecommerce**
+**CMS &amp; Ecommerce**
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-black?style=flat-square)
@@ -89,25 +89,29 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 ## Professional Experience
 
-| Role | Company | Duration | Highlights |
-|---|---|---|---|
-| Full Stack Engineer | Coder71 Limited | Jan 2023 – Present | Leading frontend architecture across client projects (React, Next.js, NestJS, Laravel), building ecommerce & SaaS products, mentoring engineers |
-| Frontend Software Developer | Pigeon Soft | Mar 2022 – Nov 2022 | Built reusable frontend systems with React & Vue, integrated REST APIs for client projects in agile teams |
+
+| Role                                       | Company         | Duration            | Highlights                                                                                                                                                                                             |
+| ------------------------------------------ | --------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Senior Frontend &amp; Mobile App Developer | Coder71 Limited | Jan 2023 – Present  | Building a multi-tenant SaaS exhibitor platform (500+ cinema halls, 80 exhibitors); contributing across React, React Native, Expo, Next.js, NestJS, Laravel; defining system design &amp; architecture |
+| Frontend Software Developer                | Pigeon Soft     | Mar 2022 – Nov 2022 | Built reusable frontend systems with React &amp; Vue, integrated REST APIs for client projects in agile teams                                                                                          |
+
 
 ---
 
 ## Interests
 
-Agentic Software Engineering • Full Stack Architecture • Spec-Driven Development • Cloud & DevOps Engineering • AI Agents & Multi-Agent Systems
+Agentic Software Engineering • Full Stack Architecture • Spec-Driven Development • Cloud &amp; DevOps Engineering • AI Agents &amp; Multi-Agent Systems
 
 ---
 
 ## Education
 
-| Degree | Institution |
-|---|---|
-| BSc in Computer Science & Engineering | Bangladesh University of Business and Technology |
-| Diploma in Computer Engineering | Lakshmipur Polytechnic Institute |
+
+| Degree                                    | Institution                                      |
+| ----------------------------------------- | ------------------------------------------------ |
+| BSc in Computer Science &amp; Engineering | Bangladesh University of Business and Technology |
+| Diploma in Computer Engineering           | Lakshmipur Polytechnic Institute                 |
+
 
 ---
 
@@ -116,3 +120,4 @@ Agentic Software Engineering • Full Stack Architecture • Spec-Driven Develop
 ### Code with intent. Ship with care.
 
 </div>
+
