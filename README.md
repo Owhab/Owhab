@@ -4,9 +4,9 @@
 
 ### Full Stack Engineer
 
-Building production-grade web &amp; mobile products across ecommerce, SaaS, and AI-assisted workflows.
+Building scalable web applications and backend services — currently engineering Biniyog's digital investment platform in the Dhaka Stock Exchange (DSE) ecosystem.
 
-[Portfolio](https://abdulowhab.netlify.app) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
+[Portfolio](https://owhab.com) • [LinkedIn](https://linkedin.com/in/abdulowhab) • [GitHub](https://github.com/Owhab) • [Email](mailto:mail.owhab@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@ Building production-grade web &amp; mobile products across ecommerce, SaaS, and 
 
 ## About Me
 
-Full Stack Engineer with 4+ years building production-grade web and mobile applications across ecommerce, SaaS, and internal business platforms. Currently a Senior Frontend & Mobile App Developer at Coder71 Limited, building a multi-tenant SaaS exhibitor platform used to manage 500+ cinema halls across 80 exhibitors. Also contribute across React, React Native, Expo, Next.js, NestJS, and Laravel, define system design and architecture decisions for the team's projects, and lead & mentor the frontend team while delivering company-wide sessions on system design, CI/CD, and agentic software engineering.
+Full Stack Engineer with 5+ years building scalable web applications, backend services, and business platforms using TypeScript, NestJS, Node.js, Next.js, React, and React Native. Currently at Biniyog (Motijheel, Dhaka), contributing to its digital investment platform — including Mutual Fund solutions in the Dhaka Stock Exchange (DSE) ecosystem — focusing on backend engineering, REST API development, database design with MySQL and TypeORM, Python ETL workflows, and Docker, Redis, and RabbitMQ in production. Previously at Coder71 Limited (Jan 2023 – Sep 2026), led frontend initiatives for SaaS, ecommerce, and enterprise platforms — including a multi-tenant exhibitor platform managing 500+ cinema halls across 80 exhibitors — while mentoring the frontend team and delivering company-wide sessions on system design, CI/CD, and agentic software engineering.
 
 ---
 
@@ -33,9 +33,8 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **CS Fundamentals**
 
@@ -49,7 +48,8 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Mobile**
 
@@ -60,20 +60,23 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 
 **Cloud and DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Coolify](https://img.shields.io/badge/Coolify-6C4CFA?style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-333333?style=flat-square)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -89,12 +92,11 @@ Full Stack Engineer with 4+ years building production-grade web and mobile appli
 
 ## Professional Experience
 
-
-| Role                                       | Company         | Duration            | Highlights                                                                                                                                                                                             |
-| ------------------------------------------ | --------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Senior Frontend &amp; Mobile App Developer | Coder71 Limited | Jan 2023 – Present  | Building a multi-tenant SaaS exhibitor platform (500+ cinema halls, 80 exhibitors); contributing across React, React Native, Expo, Next.js, NestJS, Laravel; defining system design &amp; architecture; leading & mentoring the frontend team; delivered company-wide sessions on "System Design and Application Architecture", "Efficient CI/CD for Scalable Applications", and "Agentic Software Engineering — Spec to Ship" |
-| Frontend Software Developer                | Pigeon Soft     | Mar 2022 – Nov 2022 | Built reusable frontend systems with React &amp; Vue, integrated REST APIs for client projects in agile teams                                                                                          |
-
+| Role | Company | Duration | Highlights |
+| --- | --- | --- | --- |
+| Full Stack Engineer | Biniyog | Oct 2026 – Present | Developing modular backend services and REST APIs with NestJS and TypeScript for Biniyog's digital investment platform, incl. Mutual Fund features in the Dhaka Stock Exchange (DSE) ecosystem; designing MySQL schemas and migrations with TypeORM; building Next.js web apps and admin dashboards; Python ETL workflows for financial data; Docker, RabbitMQ, and Redis in production |
+| Sr. Frontend and Mobile App Developer | Coder71 Limited | Jan 2023 – Sep 2026 | Built a multi-tenant SaaS exhibitor platform (500+ cinema halls, 80 exhibitors); contributed across React, React Native, Expo, Next.js, NestJS, Laravel; defined system design &amp; architecture; led &amp; mentored the frontend team; delivered company-wide sessions on "System Design and Application Architecture", "Efficient CI/CD for Scalable Applications", and "Agentic Software Engineering — Spec to Ship" |
+| Frontend Developer | Pigeon Soft | Jan 2022 – Dec 2022 | Built reusable frontend systems with React &amp; Vue, integrated REST APIs for client projects in agile teams |
 
 ---
 
@@ -106,12 +108,10 @@ Agentic Software Engineering • Full Stack Architecture • Spec-Driven Develop
 
 ## Education
 
-
-| Degree                                    | Institution                                      |
-| ----------------------------------------- | ------------------------------------------------ |
-| BSc in Computer Science &amp; Engineering | Bangladesh University of Business and Technology |
-| Diploma in Computer Engineering           | Lakshmipur Polytechnic Institute                 |
-
+| Degree | Institution | Years |
+| --- | --- | --- |
+| BSc in Computer Science &amp; Engineering | Bangladesh University of Business and Technology | 2021 – 2025 |
+| Diploma in Computer Engineering | Lakshmipur Polytechnic Institute | 2017 – 2021 |
 
 ---
 
@@ -120,4 +120,3 @@ Agentic Software Engineering • Full Stack Architecture • Spec-Driven Develop
 ### Code with intent. Ship with care.
 
 </div>
-
